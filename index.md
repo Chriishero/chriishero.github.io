@@ -9,7 +9,7 @@
 #### Video Games
 - [Super Smash Bros](https://github.com/Chriishero/Super-Smash-Bros) in C++ (incomplete)
 #### 42
-- [libft](https://github.com/Chriishero/libft) in C (finished)
+- [libft](https://github.com/Chriishero/Libft) in C (finished)
 - [ft_printf](https://github.com/Chriishero/ft_printf) in C (finished)
 - [get_next_line](https://github.com/Chriishero/get_next_line) in C (finished)
 - [Push_swap](https://github.com/Chriishero/Push_swap) in C (in progress)
