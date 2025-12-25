@@ -1,5 +1,6 @@
 
 ## Projects
+
   #### Physics Simulations
 - [Double Pendulum 2D Simulation](https://github.com/Chriishero/Double-Pendulum-Simulation) in C++ (finished)
 - [N-Body 2D Simulation](https://github.com/Chriishero/N-Body-2D-Simulation) in C++ (in progress)
@@ -21,6 +22,7 @@
 - Soon
 
 ## Courses attended
+
   #### Physics
 - Stanford : The Theoretical Minimum - Classical Mechanics (finished)
 - MIT : 8.012 - Clasical Mechanics (in progress)
