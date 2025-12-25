@@ -1,6 +1,17 @@
 
 ## Projects
-- [Super Smash Bros](https://github.com/Chriishero/Super-Smash-Bros)
+#### Physics Simulations
+- [Double Pendulum 2D Simulation](https://github.com/Chriishero/Double-Pendulum-Simulation) in C++ (finished)
+- [N-Body 2D Simulation](https://github.com/Chriishero/N-Body-2D-Simulation) in C++ (in progress)
+- [Perfect Gas 2D Simulation](https://github.com/Chriishero/Perfect-Gas-2D-Simulation) in C++ (finished)
+#### Artificial Intelligence
+- Soon
+#### Video Games
+- [Super Smash Bros](https://github.com/Chriishero/Super-Smash-Bros) in C++ (incomplete)
+#### 42
+- [ft_printf]() in C (finished)
+- [get_next_line]() in C (finished)
+- [Push_swap](https://github.com/Chriishero/Push_swap) in C (in progress)
 
 ## Essays
 - Soon
