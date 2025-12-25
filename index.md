@@ -5,10 +5,13 @@
 - [Double Pendulum 2D Simulation](https://github.com/Chriishero/Double-Pendulum-Simulation) in C++ (finished)
 - [N-Body 2D Simulation](https://github.com/Chriishero/N-Body-2D-Simulation) in C++ (in progress)
 - [Perfect Gas 2D Simulation](https://github.com/Chriishero/Perfect-Gas-2D-Simulation) in C++ (finished)
+
 #### Artificial Intelligence
 - Soon
+
 #### Video Games
 - [Super Smash Bros](https://github.com/Chriishero/Super-Smash-Bros) in C++ (incomplete)
+
 #### 42
 - [Libft](https://github.com/Chriishero/Libft) in C (finished)
 - [ft_printf](https://github.com/Chriishero/ft_printf) in C (finished)
@@ -19,10 +22,13 @@
 - Soon
 
 ## Courses attended
+
 #### Physics
 - Stanford : The Theoretical Minimum - Classical Mechanics (finished)
 - MIT : 8.012 - Clasical Mechanics (in progress)
+
 #### Mathematics
 - MIT : 18.06SC - Linear Algebra (in progress)
+
 #### Artificial Intelligence
 - Stanford : CS229 - Machine Learning (in progress)
