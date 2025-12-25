@@ -1,4 +1,3 @@
-# Chriishero - Portfolio
 
 ## Projets
 - Soon
