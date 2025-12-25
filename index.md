@@ -22,11 +22,11 @@
 
 ## Courses attended
 #### &nbsp;&nbsp;&nbsp;&nbsp;Physics
-- Stanford : The Theoretical Minimum - Classical Mechanics (finished)
-- MIT : 8.012 - Clasical Mechanics (in progress)
+- Stanford : [The Theoretical Minimum - Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall) (finished)
+- MIT : [8.012 - Clasical Mechanics](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/) (in progress)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Mathematics
-- MIT : 18.06SC - Linear Algebra (in progress)
+- MIT : [18.06SC - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) (in progress)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence
-- Stanford : CS229 - Machine Learning (in progress)
+- Stanford : [CS229 - Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=ppRESyWiPJTRHoEv) (in progress)
