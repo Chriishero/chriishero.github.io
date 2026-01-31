@@ -6,7 +6,8 @@
 - [Perfect Gas 2D Simulation](https://github.com/Chriishero/Perfect-Gas-2D-Simulation) in C++ (finished)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence
-- [Linear Regression](https://github.com/Chriishero/LinearRegression) in Python (finished)
+- [Linear Regression](https://github.com/Chriishero/Linear-Regression) in Python (finished)
+- [Locally Weighted Linear Regression](https://github.com/Chriishero/Locally-Weighed-Linear-Regression) in Python (finished)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Video Games
 - [Super Smash Bros](https://github.com/Chriishero/Super-Smash-Bros) in C++ (incomplete)
