@@ -26,9 +26,11 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;Physics
 - Stanford : [The Theoretical Minimum - Classical Mechanics](https://theoreticalminimum.com/courses/classical-mechanics/2011/fall) (finished)
 - MIT : [8.012 - Clasical Mechanics](https://ocw.mit.edu/courses/8-012-physics-i-classical-mechanics-fall-2008/) (in progress)
+- MIT : [8.02 - Electricity and Magnetism](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/) (in progress)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Mathematics
 - MIT : [18.06SC - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) (in progress)
+- MIT : [18.02SC - Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) (in progress)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;Artificial Intelligence
 - Stanford : [CS229 - Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=ppRESyWiPJTRHoEv) (in progress)
