@@ -18,7 +18,8 @@
 - [ft_printf](https://github.com/Chriishero/ft_printf) in C (finished)
 - [get_next_line](https://github.com/Chriishero/get_next_line) in C (finished)
 - [Push_swap](https://github.com/Chriishero/Push_swap) in C (finished)
-- [Python Piscine](https://github.com/Chriishero/42-Python-Piscine) (in progress)
+- [Python Piscine](https://github.com/Chriishero/42-Python-Piscine) (finished)
+- [Codexion](https://github.com/Chriishero/Codexion) in C (finished)
 
 ## Essays
 - Soon
