@@ -21,6 +21,7 @@
 - [Python Piscine](https://github.com/Chriishero/42-Python-Piscine) (finished)
 - [Codexion](https://github.com/Chriishero/Codexion) in C (finished)
 - [Call Me Maybe](https://github.com/Chriishero/Call-Me-Maybe) in Python (in progress)
+- [Fly-in](https://github.com/Chriishero/Fly-in) in Python (in progress)
 
 ## Essays
 - Soon
