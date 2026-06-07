@@ -22,6 +22,7 @@
 - [Codexion](https://github.com/Chriishero/Codexion) in C (finished)
 - [Call Me Maybe](https://github.com/Chriishero/Call-Me-Maybe) in Python (finished)
 - [Fly-in](https://github.com/Chriishero/Fly-in) in Python (in progress)
+- [RAG against the machine](https://github.com/Chriishero/rag-against-the-machine) in Python (in progress) 
 
 ## Essays
 - Soon
