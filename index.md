@@ -24,6 +24,7 @@
 - [Fly-in](https://github.com/Chriishero/Fly-in) in Python (finished)
 - [RAG against the machine](https://github.com/Chriishero/rag-against-the-machine) in Python (finished)
 - [NetPractice](https://github.com/Chriishero/NetPractice) (finished)
+- [Pac-man](https://github.com/Chriishero/Pac-man.git) in Python (in progress)
 
 
 ## Essays
